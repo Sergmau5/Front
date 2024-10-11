@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+div {
+    text-align: center;
+    border: 2px solid black;
+    width: 250px;
+    position: absolute;
+    left: 42%;
+    top: 15%;
+    background-color: beige;
+    padding-top: 20px;
+}
+
+body {
+    background-image: url(practice2/static/images/sponge.jpg);
+    background-size: cover;
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 5px;
+    border: 2px solid blue;
+    margin: 1%
+}

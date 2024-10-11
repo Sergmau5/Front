@@ -1,0 +1,32 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 30px;
+    margin: auto;
+    margin-left: 50%;
+    border-radius: 24px;
+    font-family: 'poppins', sans-serif;
+    color: black;
+}
+
+form {
+    border-radius: 24px;
+    border: 1px solid #E2E2E2;
+    background: #FFF;
+    /* elevations/elevated-strong */
+    box-shadow: 0px 6px 14px 0px rgba(33, 34, 36, 0.08);
+}
+
+input, select {
+    display: flex;
+    padding: 16px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    align-self: stretch;
+}
