@@ -21,3 +21,17 @@ function register_user(){
         document.write("<br>")
     }
 }
+
+//vectores//
+let my_vector = [4, 8, 15]
+
+for (let i = 0; i < my_vector.length; i++) {
+    document.write("El número" + i + "es" + my_vector[i] + "<br>")
+}   
+
+//vectores//
+let nombres = ["Juan", "Efren", "Cristian", "Jonier", "Patricia"]
+
+for (let i = 0; i < nombres.length; i++) {
+    document.write(nombres[i] + "<br>")
+}
